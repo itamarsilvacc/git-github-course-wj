@@ -4,9 +4,14 @@ Este é um repositório para aprender como o Git funciona, através do de Git e 
 
 ## O que é Git e GitHub
 
+Git é uma ferramenta para controle de versão. Com ele, é possível versionar o código, criando várias versões do códifo de acordo com as modificações.
 
+GitHub é um repositório na nuvem para hospedar e compartilhar códigos versionados com o Git.
 
 ## Configurando o Git
+
+Para configurar o Git:
+git config
 
 ## Essencial do Git
 
@@ -66,3 +71,9 @@ git reset (--soft ou --mixed ou --hard) "hash do commit anterior ao que se quer 
 --soft - voltará o commit guardando as alterações e com os arquivos em Staged.
 --mixed - voltará o commit guardando as alterações e com os arquivos em Modified.
 --hard - voltará o commit desfazendo e apagando tudo o que foi feito.
+
+## Repositórios Remotos
+
+## Ramificação
+
+## Extras
